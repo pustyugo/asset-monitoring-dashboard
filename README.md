@@ -92,6 +92,7 @@ If you are not familiar with Docker compose, go ahead to check the [documentatio
 ## Versioning
 
 **1.0** (Feb 2021) - Initial version.
+**1.1** (Mar 2021) - Code updated to match new json format from IAV
 
 
 ## License
